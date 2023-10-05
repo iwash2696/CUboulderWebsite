@@ -1,7 +1,8 @@
 {
-  "name": "my-package",
-  "scripts": {
-    "build": "babel src -d lib",
-    "test": "jest"
+  "name": "CUboulderWebsite",
+  "description": "a really cool website",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.7"
   }
 }
